@@ -2,6 +2,7 @@
 simple batch script to update your apps , view all apps  and to view all apps that need an update
 # Troubleshoot
 if the script doesn't work follow these steps 
+
 1.visit https://github.com/microsoft/winget-cli and click on Releases
 ![step1](https://github.com/user-attachments/assets/eea505f2-9709-483f-8175-ab0411d98ac4)
 
