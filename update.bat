@@ -70,7 +70,7 @@ echo                888
 echo               o888o 										 
 																										 										 
 
-winget upgrade -h
+winget list
 echo Done now click any key to go to the menu
 pause > nul
 goto menu
