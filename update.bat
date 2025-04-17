@@ -52,7 +52,7 @@ echo    `YbodP'     888bod8P' `Y8bod88P" `Y888""8o   "888" `Y8bod8P'
 echo                888                                              
 echo               o888o 
 
-winget upgrade -all
+winget upgrade --all
 echo Done now click any key to go to the menu
 pause > nul
 goto menu 
